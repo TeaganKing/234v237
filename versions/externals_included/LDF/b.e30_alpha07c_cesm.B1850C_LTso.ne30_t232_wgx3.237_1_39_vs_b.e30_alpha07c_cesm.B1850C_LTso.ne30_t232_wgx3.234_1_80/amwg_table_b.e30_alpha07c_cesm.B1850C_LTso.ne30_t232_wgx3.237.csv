@@ -1,0 +1,2 @@
+variable,unit,mean,sample size,standard dev.,standard error,95% CI,trend,trend p-value
+ASA,% reflected,28.805,38, 0.119, 0.003, 0.006, 28.754 +  0.003 t, 0.144
